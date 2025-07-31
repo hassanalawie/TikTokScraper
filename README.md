@@ -24,8 +24,6 @@ This script automates a TikTok search and scrapes video URLs, captions, and user
 npm install playwright
 ```
 
-````
-
 ## Usage
 
 1. Save the script to a file, e.g., `scrape.js`.
@@ -66,4 +64,6 @@ To search for something else, modify the query string in the last line.
 
 MIT
 
-````
+```
+
+```
