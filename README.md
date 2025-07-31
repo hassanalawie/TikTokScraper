@@ -49,8 +49,7 @@ To search for something else, modify the query string in the last line.
     "videoUrl": "https://www.tiktok.com/@exampleuser/video/1234567890",
     "caption": "Amazing spot for chai and vibes ☕",
     "username": "@exampleuser"
-  },
-  ...
+  }
 ]
 ```
 
@@ -63,7 +62,3 @@ To search for something else, modify the query string in the last line.
 ## License
 
 MIT
-
-```
-
-```
