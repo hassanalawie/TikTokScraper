@@ -1,4 +1,3 @@
-````markdown
 # TikTok Search Scraper using Playwright
 
 This script automates a TikTok search and scrapes video URLs, captions, and usernames from the search results using [Playwright](https://playwright.dev/).
@@ -24,6 +23,7 @@ This script automates a TikTok search and scrapes video URLs, captions, and user
 ```bash
 npm install playwright
 ```
+
 ````
 
 ## Usage
@@ -66,6 +66,4 @@ To search for something else, modify the query string in the last line.
 
 MIT
 
-```
-
-```
+````
